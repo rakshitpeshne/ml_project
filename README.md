@@ -1,8 +1,3 @@
-Here is a **clean, ready-to-copy README.md file** for your repository. You can directly paste this into GitHub:
-
----
-
-````markdown
 # 🏥 Healthcare Cost Prediction
 
 A Machine Learning-based web application that predicts healthcare/medical insurance costs based on user inputs like age, BMI, smoking habits, and other personal details.
